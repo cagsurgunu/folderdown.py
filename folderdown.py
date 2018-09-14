@@ -54,6 +54,7 @@ def main_function(server_path,client_path,ftp_url,user_name,password):
     create_folder(client_path)
     copy_files(ftp,client_path)
     ftp.quit()
-main_function("/cafe","C:/",'172.30.112.101',"user","12345")
-time.sleep(1)
-main_function("/sss","C:/",'172.30.112.101',"user","12345")
+#for example delete all '#'s 
+#main_function("/cafe","C:/",'127.0.0.1',"user","12345")
+#time.sleep(1)
+#main_function("/sss","C:/",'127.0.0.1',"user","12345")
