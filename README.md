@@ -1,11 +1,11 @@
 # folderdown.py
 Folder down as using python ftplib. Folder down library provides downloading a tree of folder with all off files. 
 
-INSTALLATION
+# INSTALLATION
 
 Download folderdown.py. If you want to use in python library copy it in path to python/Lib. Or you can use directly to "folderdown.py".
 
-USAGE
+# USAGE
 
 Only call main_fuction:
 main_function(server_path,client_path,ftp_url,user_name,password).
